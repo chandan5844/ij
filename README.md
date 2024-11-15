@@ -30,9 +30,9 @@ React Crossword project ek fun aur interactive web app hai jo crossword puzzles 
 
 ### **4\. Machine Information**
 
-* **Operating System**: Windows 10  
-* **RAM**: 16 GB  
-* **Processor**: Intel i5 10th Gen  
+* **Operating System**: Ubuntu 
+* **RAM**: 12 GB  
+* **Processor**: Intel i3 8th Gen  
 * **Browser**: Chrome (latest version)  
 * **Code Editor**: Visual Studio Code
 
@@ -58,6 +58,7 @@ React Crossword project ek fun aur interactive web app hai jo crossword puzzles 
 * **Step 1**: React app banane ke liye `npx create-react-app crossword-project` command chalai.  
 * **Step 2**: Folder structure organize kiya.  
 * **Step 3**: Essential libraries install ki like `react-router` (agar zarurat ho) aur basic CSS framework.
+* **Step 3** Designing ke liye
 
 ### **9\. Project Architecture**
 
