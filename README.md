@@ -46,6 +46,7 @@ React Crossword project ek fun aur interactive web app hai jo crossword puzzles 
 * **React.js**: Main library for building UI.  
 * **Node.js**: Development server ke liye.  
 * **NPM/Yarn**: Package management.
+* **Bootstrap 3** Designing ke liye
 
 ### **7\. Development Tools**
 
@@ -58,7 +59,7 @@ React Crossword project ek fun aur interactive web app hai jo crossword puzzles 
 * **Step 1**: React app banane ke liye `npx create-react-app crossword-project` command chalai.  
 * **Step 2**: Folder structure organize kiya.  
 * **Step 3**: Essential libraries install ki like `react-router` (agar zarurat ho) aur basic CSS framework.
-* **Step 3** Designing ke liye
+
 
 ### **9\. Project Architecture**
 
