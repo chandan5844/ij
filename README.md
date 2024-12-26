@@ -21,8 +21,10 @@ Is project ka main objective ek interactive crossword puzzle banana tha jisme us
 9. Project Architecture  
 10. Steps I Have Followed  
 11. Learning Throughout the Project  
-12. Conclusion  
-13. References
+12. Docker Image and Container 
+13. Upolad on Docker Hub
+14. Conclusion  
+15. References
 
 ### **3\. Introduction**
 
@@ -88,12 +90,20 @@ React Crossword project ek fun aur interactive web app hai jo crossword puzzles 
 * Real-time user input handling aur validation kaise karte hain yeh sikha.  
 * Responsive design ka implementation improve hua.
 
-### **12\. Conclusion**
+### **12\. Docker Image and Container**
+sabse pahe maine apne system per docker install kiya uske baad maine apne Project ka image banaya and uske baad maine apne image ko continer mai run kiya taki uski Dependiencies and version stable rah sake.
 
-Yeh project ek valuable experience raha React ke concepts ko real-world project mein apply karne ka. Isse mujhe complex React projects build karne ka confidence mila aur UI/UX ko better banane ki skills improve hui.
+### **13\. Upload On Docker Hub**
+Pahle maine apne account doker hub per banaya.
+Maine apne project ko docker Hub per public upload kiya taki usko kisi bhi system per kahi bhi run kiya ja sake. 
 
-### **13\. References**
+### **14\. Conclusion**
+
+Yeh project ek valuable experience raha React ke concepts ko real-world project mein apply karne ka. Isse mujhe complex React projects build karne ka confidence mila aur UI/UX ko better banane ki skills improve hui our mai apne project ko kisi bhi system per run kara sakta haun.
+
+### **15\. References**
 
 * React documentation (official)  
 * MDN Web Docs for JavaScript and CSS basics  
 * Stack Overflow for quick problem-solving
+* Docker hub ka reference liya 
